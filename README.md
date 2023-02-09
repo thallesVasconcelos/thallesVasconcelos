@@ -1,4 +1,5 @@
 ### Olá! eu sou Thalles Vasconcelos.
+![21116158daaeb1459b4ec0758505e1ad](https://user-images.githubusercontent.com/105684134/217706805-8484cb46-bd34-4c64-be86-280de8db68a8.gif)
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thalles.vasconcelos@ccc.ufcg.edu.br)
